@@ -1,8 +1,9 @@
-# Good to see you!
+# Hello, nice to meet you!
 
 My name is **A.A. Gde Agung Smaraputra**.
-
-I'm a **final year student** at [Information Technology Universitas Udayana](https://it.unud.ac.id/). I'm proficient in building and maintaining mobile and web application. I'm familiar with C/C++, Java, Kotlin, SQL, Python, JavaScript, Node.js, and PHP programming language. I also adept at Graphic Design and Video Editing. I'm a person with good teamwork etiquette, critical thinking skill, creative thinking, and able to deliver result in time.
+I'm a versatile Web and Mobile Application Developer with expertise in various technologies. My primary tools for web development include Laravel, Node.js, React.js, and Vue.js. For mobile app development, I'm proficient in Java and Kotlin.
+In addition to my core skills, I have a strong foundation in programming languages such as C, C++, SQL, NoSQL, PHP, and Python. On the creative side, I excel in Graphic Design, UI/UX, and Video Editing.
+Over the past two years, I've consistently delivered high-quality results for my team. I prioritize teamwork, fostering critical and creative thinking, and ensuring timely project delivery. My commitment is to consistently achieve outstanding outcomes in every project I undertake.
 
 Also, i did some other thing beside programming, such as:
 - [Graphic Design](https://www.instagram.com/anode.art/)
