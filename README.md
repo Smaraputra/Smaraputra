@@ -1,21 +1,15 @@
-# Hello, nice to meet you!
+# Hi, 
 
-My name is **A.A. Gde Agung Smaraputra**.
-I'm a versatile Web and Mobile Application Developer with expertise in various technologies. My primary tools for web development include Laravel, Node.js, React.js, and Vue.js. For mobile app development, I'm proficient in Java and Kotlin.
-In addition to my core skills, I have a strong foundation in programming languages such as C, C++, SQL, NoSQL, PHP, and Python. On the creative side, I excel in Graphic Design, UI/UX, and Video Editing.
-Over the past two years, I've consistently delivered high-quality results for my team. I prioritize teamwork, fostering critical and creative thinking, and ensuring timely project delivery. My commitment is to consistently achieve outstanding outcomes in every project I undertake.
+I'm Agung, a Full Stack Developer based in Bali, Indonesia with a 5 years experience.
 
-Also, i did some other thing beside programming, such as:
-- [Graphic Design](https://www.instagram.com/anode.art/)
-- [Content Creator](https://www.youtube.com/channel/UCqw71DZOy2hmc_oz8ozx94A)
+I'm a developer with proficiencies in various tech. My primary tools for web development (backend and frontend) include Laravel, Node.js, React.js, Next.JS, and Vue.js, which usually was the modern use case needs. Database wise, i'm proficient with MySQL, MongoDB, and PostgreSQL. CMS was also used in my workflow in the past years, which revolve around Wordpress and Drupal.
 
-If you're interested in getting in touch with me, you can contact me at my [LinkedIn](https://www.linkedin.com/in/agungsmaraputra/) account. 
+For mobile app development, I'm proficient in React Native, Java and Kotlin.
 
-**I hope to see you again!**
+In addition to my core skills, I have a strong foundation in programming languages such as C, C++, and Python. On the creative side, I am proficient in Graphic Design, UI/UX, and Video Editing as a part of my hobby.
 
-<p align="left">
-<a href="https://github.com/Smaraputra">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Smaraputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Smaraputra&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+Over the past 5 (five) years, I've consistently delivered high-quality results for my team. I prioritize teamwork, fostering critical and creative thinking, and ensuring timely project delivery. My commitment is to consistently achieve outstanding outcomes in every project I undertake.
+
+For more information, you are welcomed to check the link down below.
+
+Website: https://artanode.com/portofolio/smaraputra
